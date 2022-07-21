@@ -11,6 +11,8 @@
 </p>
 <p> My career includes time spent as a group-level news editor, economist, political staffer, professional writer, and communications academic. Curiosity has made life-long learning my default passtime. I code, I voice act, I edit audio, I produce videos, I create 3d cinematics, I compose music, and I tinker with machine learning algorithms. I'm making the best of well-medicated adult ADHD.
 </p>
+<p>My pronouns are he/him.
+</p>
 
 <h2> Right now:</h2>
 
