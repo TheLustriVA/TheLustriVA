@@ -16,6 +16,10 @@
 
 <h2> Right now:</h2>
 
+- **I'm working with both Unstable diffusion and feverdreams.app on their AI image-generation platforms.**
+
+- **I'm creating a data-driven Stable-Diffusion fork designed for professional artists.**
+
 - I’m currently working on Cost-push inflation forecasting, TTS models, using generative algorithms to hide my lack of artistic talent, and my voice acting side gig.
 
 - I’m currently learning Music Theory, audio engineering, 3D animation
@@ -41,4 +45,4 @@
 <a href = 'https://www.github.com/TheLustriVA'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<!--README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a>-->
