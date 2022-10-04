@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/NJh6uKN.png" alt="cover" />
 </div>
 
-<h1> Marco Lustri is creating all the content</h1>
+<h1> Marco Lustri is creating the next generation of ML/AI</h1>
 <p align='center'>
 
 </p>
