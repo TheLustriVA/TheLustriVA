@@ -16,15 +16,13 @@
 
 <h2> Right now:</h2>
 
-- **I'm working with both Unstable diffusion and feverdreams.app on their AI image-generation platforms.**
+- **I'm working with GenFactory.io to create their industrial-scale AI image-generation platform.**
 
 - **I'm creating a data-driven Stable-Diffusion fork designed for professional artists.**
 
 - I’m currently working on Cost-push inflation forecasting, TTS models, using generative algorithms to hide my lack of artistic talent, and my voice acting side gig.
 
 - I’m currently learning Music Theory, audio engineering, 3D animation
-
-- I’m looking to collaborate on Small OSINT projects, voice acting, and writing technical tutorials aimed at creatives.
 
 - Talk to me about Python, AI, ML, bots, YouTube, cool software, anything you know heaps about.
 
