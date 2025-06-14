@@ -5,6 +5,8 @@
 Brisbane, Australia | Remote-First Professional  
 [LinkedIn](https://linkedin.com/in/kieranbicheno) | <kieran.bicheno@gmail.com> | 0451 139 937
 
+![Kieran Bicheno banner](https://i.imgur.com/wwuUhUN.png)
+
 ### Professional Summary
 
 Technology strategist with AI/ML qualifications and proven corporate leadership experience. Digital news management leader and technology implementation specialist available for strategic technology roles. Specializes in AI implementation strategy and workforce augmentation planning.
