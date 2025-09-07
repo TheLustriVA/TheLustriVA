@@ -2,58 +2,55 @@
 
 ## AI Strategy & Technology Leadership | Available for Strategic Roles
 
-Brisbane, Australia | Remote-First Professional  
-[LinkedIn](https://linkedin.com/in/kieranbicheno) | <kieran.bicheno@gmail.com> | 0451 139 937
+### Technical Proficiency
 
-![Kieran Bicheno banner](https://i.imgur.com/wwuUhUN.png)
+Kieran Bicheno combines deep expertise in AI/ML development, MLOps, and data-driven infrastructure with a background in digital news leadership and economics. He has over ten years of experience designing, deploying, and scaling machine-learning systems and data pipelines, alongside developing production-grade software and self-hosted infrastructure.
 
-### Professional Summary
+### Key Technical Competencies
 
-Technology strategist with AI/ML qualifications and proven corporate leadership experience. Digital news management leader and technology implementation specialist available for strategic technology roles. Specializes in AI implementation strategy and workforce augmentation planning.
+- **Machine Learning \& AI**:
+    - MLOps architecture, automated model training pipelines, and continuous-integration workflows
+    - Research contributions in dataset documentation (co-author of “The Pile Datasheet”)[^1]
+    - Implementation of local LLM deployments and agentic coding systems (e.g., Llama.cpp, Mistral)
+- **Infrastructure \& DevOps**:
+    - Design and management of self-hosted GPU clusters (NVIDIA RTX-class hardware) on Ubuntu/Linux
+    - Containerization with Docker and orchestration using docker-compose and Kubernetes
+    - Secrets-management (Infisical), PostgreSQL configuration, and systemd service automation
+- **Programming \& Automation**:
+    - Advanced Python development (data pipelines, audio-processing, Google Apps Script)
+    - Shell scripting and CLI tooling for ffmpeg, yt-dl integration, and workflow automation (n8n, PM2/Bun)
+- **Data Engineering**:
+    - Large-scale economic and cosmological data ingestion, statistical analysis, and time-series forecasting
+    - API design for Stable Diffusion and cost-push inflation models
 
-### Core Competencies
+## Career Highlights
 
-- **AI Strategy & Implementation**: Master's-level AI research experience with practical project application
-- **Technology Leadership**: 10+ years managing digital operations across 40+ newsroom network
-- **Crisis Management**: Proven operational excellence during high-pressure situations
-- **Workflow Optimization**: Demonstrated automation solutions reducing manual processes by 90%+
-- **Team Development**: Experience leading diverse technical and editorial teams
+- Led AI augmentation strategy and digital transformation in high-stress news environments at News Corp Australia, pioneering a Google Apps Script tool that cut a critical workflow from 2 hours to 12 minutes.
+- Co-authored the influential “Datasheet for The Pile” paper on arXiv, establishing metadata standards for large language-model datasets.[^1]
+- Architected and optimized self-hosted inference environments for LLMs, overcoming PyTorch compatibility issues with RTX 5090 GPUs.
+- Directed GenFactory.io’s industrial-scale Stable Diffusion API platform, integrating data-driven image generation at production scale.
 
-### Selected Experience
+## Open-Source Contributions
+GitHub profile showcases a broad range of repositories spanning AI/ML prototypes, tooling for self-hosting, data-analysis libraries, and multimedia processing utilities. Highlights include:
 
-#### Technology Leadership
+- MLOps pipeline templates for training and deploying transformer models
+- Kubernetes manifests and Helm charts for GPU-accelerated inference
+- Audio-visual production scripts and video-processing workflows
 
-- Digital news operations management: 10+ years overseeing multi-platform content delivery
-- AI research and practical project implementation through Master's program
-- Workflow automation: Reduced critical 2-hour process to 12 minutes using Google Apps Script
+## Reputation \& Credibility
 
-#### Education & Qualifications
+- Recognized contributor on The Pile project, with research cited in academic and industry contexts.
+- Former head of digital news at News Regional Media (News Corp), lauded for crisis leadership and analytics-driven decision-making.
+- Engaged consultant in AI ethics and governance, advising on human-readable specification formats and ethical deployment frameworks.
 
-- Master of Philosophy in AI Applications (in progress, QUT)
-- Bachelor of Fine Arts, Creative Writing & Economics (QUT)
+## Selected Publications \& Projects
 
-#### Technical Proficiencies
+- “Datasheet for The Pile” – co-author, [arXiv:2201.07311](https://arxiv.org/abs/2201.07311)
+- Independent MLOps research on autonomous systems control and workforce augmentation (2020–2021)
+- Cosmological data analysis using radio-telescope datasets (2020–2021)
 
-- Python, MLOps, Data Pipeline Architecture
-- Strategic Planning & Project Management  
-- Digital Analytics & Business Intelligence
-- Cross-functional Team Leadership
-
-### Current Availability
-
-Available for strategic technology roles with focus on:
-
-- AI implementation strategy and planning
-- Digital transformation initiatives
-- Technology team leadership
-- Remote and Brisbane-based opportunities
-
-### Connect
+## Connect
 
 - **LinkedIn**: [linkedin.com/in/kieranbicheno](https://linkedin.com/in/kieranbicheno)
 - **Email**: <kieran.bicheno@gmail.com>
 - **Phone**: 0451 139 937
-
----
-
-*Resume and references available upon request.*
