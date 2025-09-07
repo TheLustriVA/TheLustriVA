@@ -2,6 +2,8 @@
 
 ## AI Strategy & Technology Leadership | Available for Strategic Roles
 
+![Kieran Bicheno Banner](https://i.imgur.com/wwuUhUN.png)
+
 ### Technical Proficiency
 
 Kieran Bicheno combines deep expertise in AI/ML development, MLOps, and data-driven infrastructure with a background in digital news leadership and economics. He has over ten years of experience designing, deploying, and scaling machine-learning systems and data pipelines, alongside developing production-grade software and self-hosted infrastructure.
