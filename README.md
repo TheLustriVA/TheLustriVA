@@ -6,7 +6,7 @@
 
 ### Technical Proficiency
 
-Kieran Bicheno combines deep expertise in AI/ML development, MLOps, and data-driven infrastructure with a background in digital news leadership and economics. He has over ten years of experience designing, deploying, and scaling machine-learning systems and data pipelines, alongside developing production-grade software and self-hosted infrastructure.
+Kieran Bicheno combines deep expertise in AI/ML development, mass media, and data-driven infrastructure with a background in digital news leadership and economics. He has more than ten years' experience designing, deploying, and scaling workflow systems and data pipelines, with applied experience in AI and MLOps going back to 2018.
 
 ### Key Technical Competencies
 
